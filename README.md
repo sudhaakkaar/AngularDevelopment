@@ -1,2 +1,0 @@
-# AngularDevelopment
-AngularDevelopment Activities
